@@ -14,4 +14,4 @@ Interactive Power BI dashboard analyzing:
 - KPI Analysis
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+Click here to watch the dashboard demo:https://drive.google.com/file/d/1l-Opd0rOREw3MzW1QRRMgTMhuO6X_DJ7/view?usp=drive_link
